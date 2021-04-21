@@ -8,3 +8,4 @@ class AppError extends Error {
   }
 }
 module.exports = AppError;
+////this is like easy to make errors display if i know the error will come
